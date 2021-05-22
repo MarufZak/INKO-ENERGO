@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'U-BL';
+    src: url('../fonts/uni/UniNeueBlack.ttf');
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'U-B';
+    src: url('../fonts/uni/UniNeueBold.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'U-I';
+    src: url('../fonts/uni/UniNeueBook.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'U-R';
+    src: url('../fonts/uni/UniNeueRegular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'U-L';
+    src: url('../fonts/uni/UniNeueLight.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'U-T';
+    src: url('../fonts/uni/UniNeueThin.ttf');
+    font-weight: 100;
+}

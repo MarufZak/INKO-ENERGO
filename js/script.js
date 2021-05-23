@@ -22,3 +22,7 @@ $('.sidebar__burger').click(function () {
     $('.header__link--first').toggleClass('active');
     $('.header__link--last').toggleClass('active');
 })
+
+$('.sidebar__link').click(function (e) {  
+    e.preventDefault()
+})

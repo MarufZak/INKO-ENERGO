@@ -9,9 +9,10 @@ let swiper = new Swiper('.swiper',{
         el: ".swiper__pagination",
         type: 'bullets',
         bulletClass: "swiper__bullet",
-        bulletActiveClass: "swiper__bullet-active"
+        bulletActiveClass: "swiper__bullet-active",
+        clickable: true
     },
-    speed: 800,
+    speed: 1000,
 
 })
 
